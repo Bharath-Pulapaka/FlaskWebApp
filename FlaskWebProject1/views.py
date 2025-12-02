@@ -43,5 +43,5 @@ def final():
         'final.html',
         title='Final',
         year=datetime.now().year,
-        message='Your final page.       '
+        message='Your final page hello.'
     )
